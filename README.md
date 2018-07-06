@@ -278,6 +278,7 @@ where:
   details.
 * `dbpedia` is the version of DBpedia, in the format `X.Y`. See
   http://downloads.dbpedia.org/ for additional details.
+    * Since the April 2015, the naming has changed slightly. To get the dump from that version on, you need to specify `2015-04/core-i18n`
 * `targetdir` is the directory where files will be stored, ie `<repository
   root>/de/source` for German, `<repository root>/en/source` for English, and so on.
 
